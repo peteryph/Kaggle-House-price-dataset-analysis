@@ -26,8 +26,8 @@ Contributing
 - peteryph
 
 Authors
-	•	peteryph
+- peteryph
 
 Acknowledgments
-	•	Dataset - https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+- Dataset - https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
